@@ -1,6 +1,5 @@
 package net.dpco.keycloak.config;
 
-
 import org.keycloak.adapters.KeycloakDeployment;
 import org.keycloak.adapters.KeycloakDeploymentBuilder;
 import org.keycloak.adapters.spi.HttpFacade;
